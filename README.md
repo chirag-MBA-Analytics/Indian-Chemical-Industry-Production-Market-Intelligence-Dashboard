@@ -90,7 +90,15 @@ The project combines chemical industry understanding with business analytics and
 * KPI cards for industrial insights
 * Segment-level production analysis
 
+## Dashboard Preview 
+### Overview Dashboard
+![Overview Dashboard](Dashboard%20Screenshots/Dashboard%201.png)
 
+### Production Trend Analysis
+![Production Trends](Dashboard%20Screenshots/Dashboard%202.png)
+
+### Market Intelligence Dashboard
+![Market Intelligence](Dashboard%20Screenshots/Dashboard%203.png)
 ## Business Insights
 
 * Identified periods of significant production growth across chemical categories
