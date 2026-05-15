@@ -92,7 +92,7 @@ The project combines chemical industry understanding with business analytics and
 
 ## Dashboard Preview 
 ### Overview Dashboard
-!![Overview Dashboard](Dashboard%201.png)
+![Overview Dashboard](Dashboard%201.png)
 
 ### Production Trend Analysis
 ![Production Trends](Dashboard%202.png)
